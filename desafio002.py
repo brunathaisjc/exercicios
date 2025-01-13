@@ -5,5 +5,5 @@ dia = int(input('qual o dia que tu nasceu? '))
 mes = int(input('e o mês? '))
 ano = int(input('agora o ano: '))
 
-print(f'Sua de nascimento é {dia}/{mes}/{ano}.')
+print(f'Sua data de nascimento é {dia}/{mes}/{ano}.')
 
