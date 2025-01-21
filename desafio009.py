@@ -1,6 +1,6 @@
 #Desafio 9 
 #Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
-
+'''
 numero = int(input('Escolha um número: '))
 
 
@@ -16,4 +16,11 @@ print(f'{numero} x 7 = {numero*7}')
 print(f'{numero} x 8 = {numero*8}')
 print(f'{numero} x 9 = {numero*9}')
 print(f'{numero} x 10 = {numero*10}')
+'''
+
+n = int(input('digata um número: '))
+
+for i in range(11):
+    print(f'{n} X {i} = {n*i}')
+
 
