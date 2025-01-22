@@ -1,2 +1,2 @@
 # exercicios
-Exercícios de Python. São desafios que vão do 1 ao 100
+Exercícios de Python. São desafios que vão do 1 ao 115.
